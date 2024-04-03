@@ -88,7 +88,6 @@
 	</tr>
 	<tr>
 		<td align="center">
-		<p align="left">
 		<b><font face="Courier" size="4"><br>
 		correct way to wire step motors to it's driver:<br>
 &nbsp;</font></b></td>
@@ -100,7 +99,6 @@
 	</tr>
 	<tr>
 		<td align="center">
-		<p align="left">
 		<b><font size="4" face="Courier"><br>
 		popular drivers for Nema17 and 28byj-48 step motors:<br>
 &nbsp;</font></b></td>
