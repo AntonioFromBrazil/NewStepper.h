@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<meta charset='utf-8'><title></title>
+<meta charset="utf-8">
 </head>
 
 <body>
@@ -91,18 +91,14 @@
 	</tr>
 	<tr>
 		<td align="center">
-		&nbsp;</td>
-	</tr>
-	<tr>
-		<td align="center">
 		<b><font size="4" face="Courier"><br>
-		popular drivers for Nema17 and 28byj-48 step motors<br>
+		popular drivers for Nema17 and 28byj-48 step motors:<br>
 &nbsp;</font></b></td>
 	</tr>
 	<tr>
 		<td align="center">
-		<img border="0" src="/NewStepper/images/D_L298.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/D_ULN2003.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/D_L298.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/D_ULN2003.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img border="0" src="/NewStepper/images/D_L293.jpg" width="300" height="300" align="middle"></td>
 	</tr>
 </table>
