@@ -30,15 +30,15 @@
 		NewStepper name(5,17,16,4);&nbsp; //constructor for driver motor pins 
 		in1,in2,in3,in4<br>
 		<br>
-		name.begin(mode);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //At setup(), issue begin() command to init the 
+		name.begin(mode);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //At setup(), issue begin() command to init the 
 		library timer and set stepmotor mode operation<br>
 		------------------------------------------------------------------------------<br>
 		<br>
 		</font><b><font face="Courier" size="5">CONSTRUCTOR:</font></b><font size="4" face="Courier"><br>
 		<br>
-		<b>NewStepper name(pin4, pin3, pin2, pin1);</b> <br>
+		<b>NewStepper name(pin1, pin2, pin3, pin4);</b> <br>
 		name is any name for instance stepmotor<br>
-		uint8_t pin4,3,2,1 reffers to ESP-32 pins connected to in4,3,2,1 of 
+		uint8_t pin1,2,3,4 reffers to ESP-32 pins connected to in1,2,3,4 of 
 		motor driver<br>
 		<br>
 		<br>
@@ -101,14 +101,12 @@
 	</tr>
 	<tr>
 		<td align="center">
-		<img border="0" src="/NewStepper/images/L298.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/ULN2003.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/L298.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/ULN2003.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img border="0" src="/NewStepper/images/L293.jpg" width="300" height="300" align="middle"></td>
 	</tr>
 </table>
 
 </body>
-
-</html>
 
 </html>
