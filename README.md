@@ -105,9 +105,9 @@
 	</tr>
 	<tr>
 		<td align="center">
-		<img border="0" src="/NewStepper/images/D_L298.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/D_ULN2003.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/D_L293.jpg" width="300" height="300" align="middle"></td>
+		<img border="0" src="/NewStepper/images/D_L298.jpg" width="240" height="240" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/D_ULN2003.jpg" width="240" height="240" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/D_L293.jpg" width="240" height="240" align="middle"></td>
 	</tr>
 </table>
     <br><hr align="left">
