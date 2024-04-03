@@ -10,8 +10,9 @@
 	<tr>
 		<td align="center">
 		<p align="left"><font size="4" face="Courier">
-        <hr>
-		</font><b><font face="Courier" size="5"><br>
+        <hr align="left">
+		</font>
+		<p align="left"><b><font face="Courier" size="5"><br>
 		This is a ESP-32 nonblocking 
 		step motor library based on interrupts for Nema17 and 28byj-48</font></b><font size="4" face="Courier">
 		<br>
@@ -23,8 +24,9 @@
 		<br>
 		https://forum.arduino.cc/t/error-invalid-use-of-non-static-member-function/1240240<br>
 		<br>
-        <hr>
-		<br>
+        </p>
+        <hr align="left">
+		<p align="left"><br>
 		In the main program is mandatory to define the following:<br>
 		<br>
 		#include &lt;NewStepper.h&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;//include the NewStepper.h library <br>
@@ -35,7 +37,9 @@
 		name.begin(mode);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //At setup(), issue begin() command to init the 
 		library timer and set stepmotor mode operation<br>
 		<br>
-        <hr>
+        </p>
+        <hr align="left">
+		<p align="left">
 		<br>
 		</font><b><font face="Courier" size="5">CONSTRUCTOR:</font></b><font size="4" face="Courier"><br>
 		<br>
@@ -78,11 +82,13 @@
 		<b>name.getms();</b><br>
 		return the ms counter at moment (initial ms value setted by previously 
 		name.setms)<br><br>
-        <hr></font><br>
+        </p>
+        <hr align="left"></font><br>
 &nbsp;</td>
 	</tr>
 	<tr>
 		<td align="center">
+		<p align="left">
 		<b><font face="Courier" size="4"><br>
 		correct way to wire step motors to it's driver:<br>
 &nbsp;</font></b></td>
@@ -94,6 +100,7 @@
 	</tr>
 	<tr>
 		<td align="center">
+		<p align="left">
 		<b><font size="4" face="Courier"><br>
 		popular drivers for Nema17 and 28byj-48 step motors:<br>
 &nbsp;</font></b></td>
@@ -105,7 +112,7 @@
 		<img border="0" src="/NewStepper/images/D_L293.jpg" width="300" height="300" align="middle"></td>
 	</tr>
 </table>
-    <br><hr>
+    <br><hr align="left">
 </body>
 
 </html>
