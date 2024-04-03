@@ -1,9 +1,7 @@
 <html>
 
 <head>
-<meta http-equiv="Content-Language" content="pt-br">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>--------------------------------</title>
+<meta charset='utf-8'><title></title>
 </head>
 
 <body>
@@ -27,12 +25,12 @@
 		------------------------------------------------------------------------------<br>
 		In the main program is mandatory to define the following:<br>
 		<br>
-		#include &lt;NewStepper.h&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;//include the NewStepper.h library <br>
+		#include &lt;NewStepper.h&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;//include the NewStepper.h library <br>
 		<br>
 		NewStepper name(5,17,16,4);&nbsp; //constructor for driver motor pins 
 		in1,in2,in3,in4<br>
 		<br>
-		name.begin(mode);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; //At setup(), issue begin() command to init the 
+		name.begin(mode);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //At setup(), issue begin() command to init the 
 		library timer and set stepmotor mode operation<br>
 		------------------------------------------------------------------------------<br>
 		<br>
@@ -110,5 +108,7 @@
 </table>
 
 </body>
+
+</html>
 
 </html>
