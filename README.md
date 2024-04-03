@@ -83,7 +83,7 @@
 	<tr>
 		<td align="center">
 		<b><font face="Courier" size="4"><br>
-		correct way wiring step motor to it´s driver:<br>
+		correct way to wire step motors to it's driver:<br>
 &nbsp;</font></b></td>
 	</tr>
 	<tr>
@@ -103,9 +103,9 @@
 	</tr>
 	<tr>
 		<td align="center">
-		<img border="0" src="/NewStepper/images/L298.jpg" width="300" height="224" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/ULN2003.jpg" width="300" height="224" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/L293.jpg" width="300" height="224" align="middle"></td>
+		<img border="0" src="/NewStepper/images/L298.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/ULN2003.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/L293.jpg" width="300" height="300" align="middle"></td>
 	</tr>
 </table>
 
