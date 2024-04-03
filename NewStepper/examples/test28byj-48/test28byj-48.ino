@@ -16,9 +16,9 @@ NewStepper sm(5,17,16,4);              //define constructor for driver motors pi
 void setup()
 {
   sm.begin(2);                         //define the 28byj-48 step motor mode 2 operation
-                                       //1=full step, 2048 steps per turn, low torque, low consumption
-                                       //2=full step, 2048 steps per turn, high torque, high consumption
-                                       //3=half step, 4096 steps per turn, middle torque, middle consumption
+                                       //1 = full step, 2048 steps per turn, low torque, low consumption
+                                       //2 = full step, 2048 steps per turn, high torque, high consumption
+                                       //3 = half step, 4096 steps per turn, middle torque, middle consumption
 
                                        //the max speed depending on mode selected:
                                        //mode 1 - max speed 3 for clockwise and 5 for counterclockwise
