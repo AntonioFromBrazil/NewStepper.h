@@ -55,10 +55,10 @@
 		at setup() section, to init the library timer and step motor model and 
 		mode of operation<br>
 		uint8_t mode should be:<br>
-		0=Nema17, 200 steps per turn<br>
-		1=28byj-48 full step, 2048 steps per turn, low torque, low consumption<br>
-		2=28byj-48 full step, 2048 steps per turn, high torque, high consumption<br>
-		3=28byj-48 half step, 4096 steps per turn, middle torque, middle 
+		0 = For Nema17, 200 steps per turn<br>
+		1 = For 28byj-48 full step, 2048 steps per turn, low torque, low consumption<br>
+		2 = For 28byj-48 full step, 2048 steps per turn, high torque, high consumption<br>
+		3 = For 28byj-48 half step, 4096 steps per turn, middle torque, middle 
 		consumption<br>
 		<br>
 		<b>name.run(steps,vel,cw);</b><br>
