@@ -10,8 +10,9 @@
 	<tr>
 		<td align="center">
 		<p align="left"><font size="4" face="Courier">
-		------------------------------------------------------------------------------<br>
-		</font><b><font face="Courier" size="5">This is a ESP-32 nonblocking 
+        <hr>
+		</font><b><font face="Courier" size="5"><br>
+		This is a ESP-32 nonblocking 
 		step motor library based on interrupts for Nema17 and 28byj-48</font></b><font size="4" face="Courier">
 		<br>
 		By Antonio Testa, April/2024<br>
@@ -22,7 +23,8 @@
 		<br>
 		https://forum.arduino.cc/t/error-invalid-use-of-non-static-member-function/1240240<br>
 		<br>
-		------------------------------------------------------------------------------<br>
+        <hr>
+		<br>
 		In the main program is mandatory to define the following:<br>
 		<br>
 		#include &lt;NewStepper.h&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;//include the NewStepper.h library <br>
@@ -32,7 +34,8 @@
 		<br>
 		name.begin(mode);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //At setup(), issue begin() command to init the 
 		library timer and set stepmotor mode operation<br>
-		------------------------------------------------------------------------------<br>
+		<br>
+        <hr>
 		<br>
 		</font><b><font face="Courier" size="5">CONSTRUCTOR:</font></b><font size="4" face="Courier"><br>
 		<br>
@@ -74,8 +77,8 @@
 		<br>
 		<b>name.getms();</b><br>
 		return the ms counter at moment (initial ms value setted by previously 
-		name.setms)<br>
-		------------------------------------------------------------------------------</font><br>
+		name.setms)<br><br>
+        <hr></font><br>
 &nbsp;</td>
 	</tr>
 	<tr>
@@ -97,14 +100,12 @@
 	</tr>
 	<tr>
 		<td align="center">
-		<img border="0" src="/NewStepper/images/D_L298.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/D_ULN2003.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/D_L298.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/D_ULN2003.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img border="0" src="/NewStepper/images/D_L293.jpg" width="300" height="300" align="middle"></td>
 	</tr>
 </table>
-
+    <br><hr>
 </body>
-
-</html>
 
 </html>
