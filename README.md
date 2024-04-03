@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Language" content="pt-br">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Nova pagina 1</title>
+<title>--------------------------------</title>
 </head>
 
 <body>
@@ -27,12 +27,12 @@
 		------------------------------------------------------------------------------<br>
 		In the main program is mandatory to define the following:<br>
 		<br>
-		#include &lt;NewStepper.h&gt; //include the NewStepper.h library <br>
+		#include &lt;NewStepper.h&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//include the NewStepper.h library <br>
 		<br>
-		NewStepper name(5,17,16,4); //constructor for driver motor pins 
+		NewStepper name(5,17,16,4);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //constructor for driver motor pins 
 		in1,in2,in3,in4<br>
 		<br>
-		name.begin(mode); //At setup(), issue begin() command to init the 
+		name.begin(mode);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //At setup(), issue begin() command to init the 
 		library timer and set stepmotor mode operation<br>
 		------------------------------------------------------------------------------<br>
 		<br>
@@ -103,8 +103,8 @@
 	</tr>
 	<tr>
 		<td align="center">
-		<img border="0" src="/NewStepper/images/L298.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/ULN2003.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/L298.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/ULN2003.jpg" width="300" height="300" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img border="0" src="/NewStepper/images/L293.jpg" width="300" height="300" align="middle"></td>
 	</tr>
 </table>
