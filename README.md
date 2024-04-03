@@ -11,8 +11,8 @@
 <table border="0" width="100%" id="table1">
 	<tr>
 		<td>
-		<img border="0" src="../NewStepper/images/Nema17.jpg" width="300" height="224">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="../NewStepper/images/28byj-48.jpg" width="300" height="224"></td>
+		<img border="0" src="/NewStepper/images/Nema17.jpg" width="300" height="224">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/NewStepper/images/28byj-48.jpg" width="300" height="224"></td>
 	</tr>
 </table>
 
