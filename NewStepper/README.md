@@ -13,7 +13,7 @@
         <hr align="left">
 		</font>
 		<p align="left"><b><font face="Courier" size="5"><br>
-		This is a ESP-32 nonblocking 
+		This is an ESP-32 nonblocking 
 		step motor library based on interrupts for Nema17 and 28byj-48</font></b><font size="4" face="Courier">
 		<br>
 		By Antonio Testa, April/2024<br>
